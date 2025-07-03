@@ -1,0 +1,5 @@
+KingsCollege/
+__pycache__/
+*.pyc
+ModelCheckpoints/
+*.pth
